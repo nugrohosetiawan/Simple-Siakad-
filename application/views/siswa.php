@@ -5,6 +5,9 @@
 </head>
 <body>
 	Daftar Nama siswa
+	<form action="inputsiswa">
+    <input type="submit" value="Go to Google" />
+</form>
 
 	<table border="1">
 		<tr>

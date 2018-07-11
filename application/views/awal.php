@@ -5,9 +5,9 @@
 </head>
 <body>
 
-<nav>
- <a href="http://localhost/siakad/index.php">Halaman Utama</a> |
- <a href="http://localhost/siakad/index.php/siswa/siswa">Daftar Siswa</a> |
+<nav style="margin:20px auto; align:center;">
+ <a href="index.php">Halaman Utama</a> |
+ <a href="index.php/siswa/siswa">Daftar Siswa</a> |
  <a href="#">Daftar Dosen</a> |
  <a href="#">Jadwal Kuliah</a> |
  <a href="#">Daftar Matakuliah</a> |
